@@ -1,0 +1,139 @@
+.canvas{
+ position:relative;
+ background-color:black;
+ width:1080px;
+ height:600px;
+ margin:auto;
+}
+
+.canvas img{
+  display:block;
+  margin:0;
+  padding:0;
+  position:absolute;
+}
+
+::selection{
+	background-color: transparent;
+	color: transparent;
+}
+
+#mask{
+  left:0px;
+  top:-72px;
+}
+
+#dog{
+  left:400px;
+  top:300px;
+}
+
+#waf{
+  left:0px;
+  top:0px;
+}
+
+#meuh{
+  left:0px;
+  top:0px;
+}
+
+#cow01{
+  left:0px;
+  top:0px;
+}
+
+#cow02{
+  left:0px;
+  top:0px;
+}
+
+#cow03{
+  left:0px;
+  top:0px;
+}
+
+#cow04{
+  left:0px;
+  top:0px;
+}
+
+#cow05{
+  left:0px;
+  top:0px;
+}
+
+#cow06{
+  left:0px;
+  top:0px;
+}
+
+#cow07{
+  left:0px;
+  top:0px;
+}
+
+#cow08{
+  left:0px;
+  top:0px;
+}
+
+#cow09{
+  left:0px;
+  top:0px;
+}
+
+#cow10{
+  left:0px;
+  top:0px;
+}
+
+#cow11{
+  left:0px;
+  top:0px;
+}
+
+#cow12{
+  left:0px;
+  top:0px;
+}
+
+#cow13{
+  left:0px;
+  top:0px;
+}
+
+#cow14{
+  left:0px;
+  top:0px;
+}
+
+#cow15{
+  left:0px;
+  top:0px;
+}
+
+#cow16{
+  left:0px;
+  top:0px;
+}
+
+#cow17{
+  left:0px;
+  top:0px;
+}
+
+#cow18{
+  left:0px;
+  top:0px;
+}
+
+#cow19{
+  left:0px;
+  top:0px;
+}
+
+#cow20{
+  left:0px;
+  top:0px;
+}
